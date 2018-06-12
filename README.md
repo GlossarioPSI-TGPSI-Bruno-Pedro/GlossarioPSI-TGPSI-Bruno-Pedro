@@ -1,1 +1,0 @@
-# GlossarioPSI-TGPSI-Bruno-Pedro
