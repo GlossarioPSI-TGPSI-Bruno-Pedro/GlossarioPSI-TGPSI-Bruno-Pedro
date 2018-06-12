@@ -1,0 +1,200 @@
+#LenguageText{
+
+  color: #f5be01;
+  font-family: "Times";
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+a:link{
+
+  color: tomato;
+  text-decoration: none;
+
+}
+
+a:visited{
+
+  color: tomato;
+  text-decoration: none;
+
+}
+
+a:hover{
+
+  color: tomato;
+  text-decoration: none;
+
+}
+
+a:active{
+
+  color:orange;
+  text-decoration: none;
+
+}
+
+td{
+
+  font-size: 20px;
+  font-weight: bold;
+  width: 100px;
+  height: 100px;
+
+}
+
+video#vid {
+ position: fixed;
+ right: 0;
+ bottom: 0;
+ min-width: 100%;
+ min-height: 100%;
+ width: auto;
+ height: auto;
+ z-index: -100;
+ background-size: cover;
+ margin: 0 auto;
+}
+
+#bc{
+
+  border-style: dashed;
+  border-color: tomato;
+  border-width: 2px;
+}
+
+#bc:hover{
+
+  border-style: solid;
+  border-color: tomato;
+  border-width: 2px;
+}
+
+#bc:active{
+
+  border-style: solid;
+  border-color: orange;
+  border-width: 2px;
+}
+
+#Slogan{
+
+  color: #f5be01;
+  font-family: "Times";
+  font-size: 50px;
+  font-weight: bold;.
+
+}
+
+#Code{
+
+  font-style: italic;
+
+}
+
+#ReadBan{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 1000px;
+  background-color: white;
+
+}
+
+#ReadBanC{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 1300px;
+  background-color: white;
+
+}
+
+
+#BackButton {
+
+  border-radius: 4px;
+  background-color: tomato;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 0px;
+  width: 100px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  height:-50px;
+
+}
+
+#BackButton span {
+
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+
+}
+
+#BackButton span:after {
+
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+
+}
+
+#BackButton:hover span {
+
+  padding-right: 25px;
+
+}
+
+#BackButton:hover span:after {
+
+  opacity: 1;
+  right: 0;
+
+}
+
+#ButtonText{
+
+  font-family: Times;
+
+}
+
+#Text{
+
+  font-size: 20px;
+  color: Tomato;
+  padding-left: 10px;
+
+}
+
+#Exemple{
+
+  color: navy;
+
+}
+
+#Explanation{
+
+  color:green;
+
+}
+
+#c{
+
+ color:black;
+
+}
